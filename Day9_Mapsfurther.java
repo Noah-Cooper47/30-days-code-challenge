@@ -1,4 +1,5 @@
-Package Day9;
+package Day9;
+import java.util.Map;
 import java.util.HashMap;
 
 
